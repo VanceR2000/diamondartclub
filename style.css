@@ -1,0 +1,24 @@
+/* style.css */
+body {
+  background-color: #fff8f5;
+  font-family: 'Helvetica Neue', sans-serif;
+}
+
+.hero {
+  background: linear-gradient(135deg, #eabfff, #ffe4e1);
+  color: #4a0033;
+}
+
+.hero h1 {
+  font-weight: bold;
+}
+
+.btn-shop {
+  background-color: #cc00cc;
+  color: white;
+  border: none;
+}
+
+.btn-shop:hover {
+  background-color: #a800a8;
+}
